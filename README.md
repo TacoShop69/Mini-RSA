@@ -6,7 +6,7 @@ Matemática Discreta, sección "F" — Segundo semestre 2026
 
 ## Integrantes
 
-| Nombre |
+| Nombres |
 |---|
 | Kennet Javier Diaz Reyes |
 | Jordy Kléber López Quevedo |
