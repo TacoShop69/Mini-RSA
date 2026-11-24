@@ -6,10 +6,10 @@ Matemática Discreta, sección "F" — Segundo semestre 2026
 
 ## Integrantes
 
-| Nombre | Carné |
-|---|---|
-| Kennet Javier Diaz Reyes | 7690-19-15703 |
-| Jordy Kléber López Quevedo | 7690-18-4733 |
+| Nombre |
+|---|
+| Kennet Javier Diaz Reyes |
+| Jordy Kléber López Quevedo |
 
 ## Descripción
 
